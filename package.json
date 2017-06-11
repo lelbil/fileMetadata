@@ -1,0 +1,17 @@
+{
+  "name": "filemeta",
+  "version": "1.0.0",
+  "description": "File Metadata parser - returns file size in JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lelbil",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "multer": "^1.3.0"
+  }
+}
